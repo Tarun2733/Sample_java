@@ -23,7 +23,7 @@ class Main {
     Dog labrador = new Dog();
 
     // access field of superclass
-    labrador.name = "Zesty";
+    labrador.name = "Oreo";
     labrador.display();
 
     // call method of superclass
